@@ -1,10 +1,8 @@
 #include <stdio.h>
 /**
- * main - the size of the datatypes
- * ny tayyib gbondo
- * Result: 0
-*/
-int main(void)
+ * main - program that prints the size of various types on the computer 
+ *Return 0 (success)
+ */
 {
 	char a;
 	int b;
